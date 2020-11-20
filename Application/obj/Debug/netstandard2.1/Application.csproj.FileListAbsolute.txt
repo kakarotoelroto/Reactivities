@@ -1,0 +1,14 @@
+C:\Users\gendo\monsters-rolodex\reactivities\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\gendo\monsters-rolodex\reactivities\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\gendo\monsters-rolodex\reactivities\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\gendo\monsters-rolodex\reactivities\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\gendo\monsters-rolodex\reactivities\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\gendo\monsters-rolodex\reactivities\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\gendo\monsters-rolodex\reactivities\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\gendo\monsters-rolodex\reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\gendo\monsters-rolodex\reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\gendo\monsters-rolodex\reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\gendo\monsters-rolodex\reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\gendo\monsters-rolodex\reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\gendo\monsters-rolodex\reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\gendo\monsters-rolodex\reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
